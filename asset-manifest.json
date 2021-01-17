@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sylveon/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/sylveon/static/js/main.808f1779.chunk.js",
+    "main.js.map": "/sylveon/static/js/main.808f1779.chunk.js.map",
+    "runtime-main.js": "/sylveon/static/js/runtime-main.58740dc8.js",
+    "runtime-main.js.map": "/sylveon/static/js/runtime-main.58740dc8.js.map",
+    "static/js/2.498f10af.chunk.js": "/sylveon/static/js/2.498f10af.chunk.js",
+    "static/js/2.498f10af.chunk.js.map": "/sylveon/static/js/2.498f10af.chunk.js.map",
+    "static/js/3.f67251b4.chunk.js": "/sylveon/static/js/3.f67251b4.chunk.js",
+    "static/js/3.f67251b4.chunk.js.map": "/sylveon/static/js/3.f67251b4.chunk.js.map",
+    "index.html": "/sylveon/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/sylveon/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.498f10af.chunk.js.LICENSE.txt": "/sylveon/static/js/2.498f10af.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sylveon/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58740dc8.js",
+    "static/js/2.498f10af.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.808f1779.chunk.js"
+  ]
+}
